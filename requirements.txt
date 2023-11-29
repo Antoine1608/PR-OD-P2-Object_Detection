@@ -1,0 +1,10 @@
+Pillow==10.1.0
+torch 
+torchvision 
+torchaudio
+timm
+pandas
+numpy
+sklearn
+transformers
+jupyter
